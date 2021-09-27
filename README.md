@@ -1,0 +1,1 @@
+This current project is about making a recipe website, just learning the basics of html, hopefully I will look back on it and shake my head at how awful it looks. That's how life is ain't that the truth
