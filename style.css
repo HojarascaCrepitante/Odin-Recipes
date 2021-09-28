@@ -1,0 +1,23 @@
+h1{
+    font-size:40px;
+    font-family:sans-serif;
+    background-color:lightgreen;
+    color:black;
+}
+
+.pizza{
+    font-size:20px;
+    background-color:green;
+    color:black;
+    font-weight:bold;
+}
+
+.image{
+    height:300px;
+}
+
+#pizzaRecipe{
+    font-size:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    }
